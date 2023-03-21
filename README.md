@@ -75,11 +75,11 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/salman-ahmed-1322b1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-ahmed-1322b1220" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/salman1005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="salman1005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salman_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salman_ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@salman371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@salman371" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<salman_ahmed>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<salman_ahmed>" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salman-ahmed-1322b1220" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-ahmed-1322b1220" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/salman1005" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="salman1005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salman_ahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salman_ahmed" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@salman371" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@salman371" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<salman_ahmed>" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<salman_ahmed>" height="30" width="40" /></a>
 </p>
 <br>
 
