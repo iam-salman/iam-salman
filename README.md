@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/salmanahmed00/salmanahmed00/blob/main/PNG/footer2.png"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/salmanahmed00/salmanahmed00/blob/main/GIF/image.gif"/></a>
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px" height="24px">
   𝐇𝐞𝐥𝐥𝐨 World!
