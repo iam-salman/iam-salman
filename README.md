@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/salmanahmed00/salmanahmed00/blob/main/GIF/image.gif"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/salmanahmed-chd/salmanahmed-chd/blob/main/GIF/image.gif"/></a>
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px" height="24px">
   𝐇𝐞𝐥𝐥𝐨 World!
@@ -31,7 +31,7 @@
 
 
 ## 🚀 Languages and Tools
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/salmanahmed00/salmanahmed00/blob/main/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/salmanahmed-chd/salmanahmed-chd/blob/main/GIF/github.gif"></a>
 <br/>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -42,8 +42,8 @@
 
 <br>
 <p  align="center">
-    <a  href="https://github.com/salmanahmed00/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanahmed00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a  href="https://github.com/salmanahmed-chd/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanahmed-chd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
@@ -51,10 +51,10 @@
 <!-- ## 📊 My Github Stats
 
 <br/>
-    <a  href="https://github.com/salmanahmed00/github-readme-stats"><img alt="Salman Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanahmed00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a  href="https://github.com/salmanahmed-chd/github-readme-stats"><img alt="Salman Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanahmed-chd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
     <br>
-  <a href="https://github.com/salmanahmed00/github-readme-stats"><img alt="Salman Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanahmed00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/salmanahmed-chd/github-readme-stats"><img alt="Salman Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanahmed-chd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
   <br/>
@@ -67,7 +67,7 @@
 
 
 
-<a href="https://github.com/salmanahmed00/github-readme-activity-graph"><img alt="Salman Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salmanahmed00&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/salmanahmed-chd/github-readme-activity-graph"><img alt="Salman Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salmanahmed-chd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/> -->
@@ -86,6 +86,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=salmanahmed00">
+    <img src="https://komarev.com/ghpvc/?username=salmanahmed-chd">
 </a>
-<a href="https://github.com/salmanahmed00?tab=followers"><img src="https://img.shields.io/github/followers/salmanahmed00?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/salmanahmed-chd?tab=followers"><img src="https://img.shields.io/github/followers/salmanahmed-chd?label=Followers&style=social" alt="GitHub Badge"></a>
