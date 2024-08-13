@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/salmanahmed-chd/salmanahmed-chd/blob/main/GIF/image.gif"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/iam-salman/iam-salman/blob/main/GIF/image.gif"/></a>
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px" height="24px">
   𝐇𝐞𝐥𝐥𝐨 World!
@@ -24,7 +24,7 @@
 
 - 💬 Ask me anything about Problem Solving! 🤔
 
-- 📫 Reach out to me at ahmedpec1005@gmail.com 📧
+- 📫 Reach out to me at salmanpec.dev@gmail.com 📧
 
 - ⚡ Fun fact: I dominate the badminton court in my free time! 🏸
 
@@ -33,7 +33,7 @@
 
 
 ## 🚀 Languages and Tools
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/salmanahmed-chd/salmanahmed-chd/blob/main/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/iam-salman/iam-salman/blob/main/GIF/github.gif"></a>
 <br/>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -77,8 +77,8 @@
 
 <br>
 <p  align="center">
-    <a  href="https://github.com/salmanahmed-chd/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanahmed-chd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a  href="https://github.com/iam-salman/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Salman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
@@ -86,10 +86,10 @@
 <!-- ## 📊 My Github Stats
 
 <br/>
-    <a  href="https://github.com/salmanahmed-chd/github-readme-stats"><img alt="Salman Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salmanahmed-chd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a  href="https://github.com/iam-salman/github-readme-stats"><img alt="Salman Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-salman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
     <br>
-  <a href="https://github.com/salmanahmed-chd/github-readme-stats"><img alt="Salman Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanahmed-chd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/iam-salman/github-readme-stats"><img alt="Salman Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
   <br/>
@@ -102,7 +102,7 @@
 
 
 
-<a href="https://github.com/salmanahmed-chd/github-readme-activity-graph"><img alt="Salman Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salmanahmed-chd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iam-salman/github-readme-activity-graph"><img alt="Salman Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-salman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/> -->
@@ -121,6 +121,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=salmanahmed-chd">
+    <img src="https://komarev.com/ghpvc/?username=iam-salman">
 </a>
-<a href="https://github.com/salmanahmed-chd?tab=followers"><img src="https://img.shields.io/github/followers/salmanahmed-chd?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/iam-salman?tab=followers"><img src="https://img.shields.io/github/followers/iam-salman?label=Followers&style=social" alt="GitHub Badge"></a>
